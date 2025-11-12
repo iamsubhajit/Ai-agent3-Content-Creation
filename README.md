@@ -1076,6 +1076,6 @@ For questions or issues:
 
 ## 👨‍💻 Author
 
-**Created by Syed Jibbran Ali**
+**Created by Subhajit Maity**
 
 This open-source Content Creation Agent was developed to help creators, marketers, and businesses generate high-quality content across multiple formats efficiently and effectively.
